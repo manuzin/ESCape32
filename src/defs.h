@@ -104,7 +104,7 @@
 #define ARM 1
 #endif
 #ifndef DAMP
-#define DAMP 1
+#define DAMP 0
 #endif
 #ifndef REVDIR
 #define REVDIR 0
@@ -189,7 +189,7 @@
 #define INPUT_CHID 0
 #endif
 #ifndef TELEM_MODE
-#define TELEM_MODE 0
+#define TELEM_MODE 1
 #endif
 #ifndef TELEM_PHID
 #define TELEM_PHID 0
